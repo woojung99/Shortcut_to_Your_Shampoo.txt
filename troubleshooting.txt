@@ -1,3 +1,7 @@
 - 크롤링 중 ip 차단 문제
 	- 기존 ChromeDriver 를 undetected_chromedriver 로 변경함으로써 해결
 	- 보안이 강한 사이트에서 anti-bot 검사를 우회하는 기능 (크롤링 방어 메커니즘을 피하기 위해 설계)
+
+- 수작업 라벨링
+	- doccano 사용 중 전체 리뷰 내용이 안 보이는 이슈
+	- 오타나 비문이 많음
