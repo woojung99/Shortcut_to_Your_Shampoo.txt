@@ -1,2 +1,2 @@
-# itsc-final_project
+# Shortcut_to_Your_-Shampoo.txt
 shampoo review data analysis
