@@ -64,7 +64,7 @@
         - ACD: klue/roberta-base
           - 전체적인 문맥 파악이 중요한 감성분석에 유리
     - 모델 구조\
-      <img src="images/model_structure.png" width="800"/>
+      <img src="model_structure.png" width="800"/>
       - AttentionPooling 사용
         - 문장에서 속성 추출에 중요한 토큰들에 집중하도록 하고 다중 속성들의 감정 혼합 문제를 보완
           - 입력 문장 내 다중 속성을 잘 추출하기 위함
