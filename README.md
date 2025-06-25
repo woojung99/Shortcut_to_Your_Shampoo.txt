@@ -97,7 +97,7 @@
   **(5) Score**
     - (macro) f1 score: 0.9415
     - 8개 중 7개의 속성에서 f1 score 0.9 이상 달성 (1개의 속성은 0.83)
-    - 예시:  <img src="labeling_ex.png" width="600"/>
+    - 예시:\  <img src="labeling_ex.png" width="600"/>
  
 ## Results
   - 올리브영 리뷰 집계 정보와 비교 분석
@@ -133,9 +133,9 @@
     
 ## Tech Stack
 | 분야 | 기술/도구 |
-|-------------|-------------------------------------|
+|:-:|:-:|
 | 프로그래밍 언어 | Python |
-| 데이터 수집 및 전처리 | BeautifulSoup, Selenium pandas, numpy, |
+| 데이터 수집 및 전처리 | BeautifulSoup, Selenium, pandas, numpy |
 | 시각화 | matplotlib, seaborn |
 | 모델링 | Pytorch |
 | 웹개발 | Django |
