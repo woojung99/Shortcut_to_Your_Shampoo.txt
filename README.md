@@ -97,7 +97,7 @@
   **(5) Score**
     - (macro) f1 score: 0.9415
     - 8개 중 7개의 속성에서 f1 score 0.9 이상 달성 (1개의 속성은 0.83)
-    - 예시: 
+    - 예시:  <img src="labeling_ex.png" width="800"/>
  
 ## Results
   - 올리브영 리뷰 집계 정보와 비교 분석
