@@ -1,5 +1,5 @@
 # shortcut_2_ur_shampoo.txt
-- 올리브영 샴푸 리뷰 속성기반 감성분석(Aspect-based Sentiment Analysis, ABSA) 프로젝트
+- 올리브영 샴푸 리뷰를 대상으로 한 속성기반 감성분석(Aspect-based Sentiment Analysis, ABSA) 프로젝트
   
 ## Period
 - 2025.05.12 ~ 2025.06.13 (약 1개월)
